@@ -1,6 +1,6 @@
 # Política de Privacidad - Econometra
 
-Este repositorio contiene la política de privacidad de **Econometra**, una aplicación desarrollada por [BonferTech](https://bonfertech.com/) en React Native para iOS y Android, con un backend basado en Firebase y Firestore.
+Este repositorio contiene la política de privacidad de **Econometra**, una aplicación móvil desarrollada por [BonferTech](https://bonfertech.com/) en React Native para iOS y Android, con un backend basado en Firebase y Firestore.
 
 ## Información sobre la App
 
@@ -15,7 +15,7 @@ El despliegue de esta política de privacidad está disponible en el siguiente e
 
 # Privacy Policy - Econometra
 
-This repository contains the privacy policy for **Econometra**, an application developed by [BonferTech](https://bonfertech.com/) using React Native for iOS and Android, with a Firebase and Firestore backend.
+This repository contains the privacy policy for **Econometra**, a mobile application developed by [BonferTech](https://bonfertech.com/) using React Native for iOS and Android, with a Firebase and Firestore backend.
 
 ## About the App
 
